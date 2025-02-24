@@ -1,5 +1,5 @@
 <?php
 
-echo "hello from another php"
+echo "hello from master php"
 
   ?>
